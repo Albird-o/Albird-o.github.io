@@ -160,6 +160,7 @@ include:
   - _pages
   - files
 exclude:
+  - _publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
