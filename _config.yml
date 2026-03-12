@@ -160,7 +160,6 @@ include:
   - _pages
   - files
 exclude:
-  - _publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -220,7 +219,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
