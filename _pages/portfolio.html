@@ -4,11 +4,63 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Albert Harvey – Project Portfolio</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f7f7f7;
+}
+.container {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+h1, h2 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+p {
+    line-height: 1.6;
+}
+img {
+    max-width: 100%;
+    margin: 15px 0;
+    border-radius: 6px;
+}
+</style>
+</head>
+<body>
+<div class="container">
 
-{% include base_path %}
+<h2>Albert’s Portfolio of Projects</h2>
+<h2>Personal Car Project – Motorbike engine swap and custom gearbox</h2>
+<p>This is the longest, most difficult project I’ve taken up to date. This project has occupied me since mid-2025, and has led to me developing my electrical, mechanical and communications skills. In this project I am swapping a large motorbike engine into a small car. This has many engineering challenges including but not limited to: packaging, reverse gear solution, wiring, gearing, CANbus communications, etc. Some notable parts of this project can be seen below:</p>
+<p>qThis is an image of the cars wiring which I had to carefully dissect and reuse, since the accessories like lights and windscreen wipers cant be controlled by the motorbikes electrical harness. This has required me to read through the complete wiring diagrams for both vehicles and figure out how I can connect them to preserve the</p>
+<h2>2 Stage Variable Gain Amplifier</h2>
+<p>On the left you can see a variable gain microphone circuit I created on  a bread board. This featured a multi-stage Chebyshev filter and a potentiometer to change the gain or sensitivity of the microphone.</p>
+<p>On the right you can see a custom made bed frame I made. This was borne out of both necessity and fun. I had to consider not just the money saved and time spent when choosing this project but the convenience of having exactly what I want. All of those factors were ticked off in this project, I managed to design and build it in two weeks for less than the cost of a new bed frame and I finished with exactly what I wanted.</p>
+<p>On the left you can see a DC motor I designed and created with a group of fellow students. This involved making the commutator, winding the coils, ensuring continuity and proper connection between coils and their corresponding plate on the commutator. This project was a test of teamwork and intellect for me.</p>
+<p>Finally on the right is the project that sits closest to my heart, this was where I lead my friend in replacing his motorbike engine. Sound simple? Take the old one out and put the new one in? I wish! Taking apart a bike was a real test of my understanding of the electrical and mechanical subsystems present.</p>
+<h2>Project Images</h2>
+<img src="images/Mazda121WiringHarness.png" alt="Project image">
+<img src="images/JLCCNCflangeCAD.png" alt="Project image">
+<img src="images/Fusion360JackboxProject.png" alt="Project image">
+<img src="images/EGB240VariableGainAmplifier.png" alt="Project image">
+<img src="images/EGB241DCMotor.png" alt="Project image">
+<img src="images/CustomBedFrame.png" alt="Project image">
+<img src="images/JordansBikeEngine.png" alt="Project image">
+<img src="images/VRESCAD.png" alt="Project image">
+<img src="images/VRESproject.png" alt="Project image">
+<img src="images/TeamworkGlenAnshdeep.png" alt="Project image">
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+</div>
+</body>
+</html>
