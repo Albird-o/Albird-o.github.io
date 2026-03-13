@@ -1,35 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Albert Harvey - Electrical Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello, I am Albert an undergraduate Electrical engineering student, I’d describe myself as eccentric, creative 
+and efficient. I am an engineer at heart and love making things and tinkering with stuff and I am currently 
+looking to start my career in the engineering industry with a focus on mining related electronics and power 
+systems. I am also passionate about and experienced in automotive engineering. 
 
-Text
-
-Text
-
-Text 
-======
-Text
-Text 
-Example link
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Example text
-2.
-3.
-------
-**Markdown generator**
-text 
-How to edit your site's GitHub repository
-------
-Text
-text 
-Text 
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Personal Timeline: 
+* Adolescence
+  * Before I knew i was going to become an engineer I was an avid rock climber, competing, coaching and pretty much living at the climbing gym
+  * I was still academic and mangaged to graduate school with an ATAR of 96.9
+ 
+* Adult Life
+  * I got into Cars, motorbikes, lifting weights and of course engineering
+  * now I work at Elexon mining both on an industry based thesis and on routine work   
