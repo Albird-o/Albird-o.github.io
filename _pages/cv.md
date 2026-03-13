@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+~Note: recruiters can find a formal copy of my resume with my job application~
 Education
 ======
 * Bachelor of Electrical Engineering (honours) at QUT
@@ -63,5 +63,5 @@ Miscellaneous Achievements
 ======
 * Won multiple state level rock climbing competitions and competed in nationals
 * Graduated highschool with an ATAR of 96.90
-* Accquired unrestricted motorbike license and manual car license  
-  
+* Accquired unrestricted motorbike license and manual car license
+* Created this website 
