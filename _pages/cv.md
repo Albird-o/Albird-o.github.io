@@ -18,31 +18,36 @@ Education
 
 Work experience
 ======
-* July 2025 to present: ElexonMining Undergraduate Electrical Engineering 
+* *July 2025-present*: **ElexonMining Undergraduate Electrical Engineering** 
   * PCB design in KiCad  
   * Embedded coding with sensors and SPI communication protocols  
   * Soldering and test jig manufacturing
   * Uncovered flaws in testing methodology solving for unknown variability in years of testing
   * Advanced data processing and multivariate solving with Python and Excel 
 
-* Summer 2024-2025: QUT’s Vacation Research Experience Scheme (VRES) 
+* *Summer 2024-2025*: **QUT’s Vacation Research Experience Scheme (VRES)**
   * Designed and created a cleaning device while adhering to a budget and design requirements  
   * Worked in conjunction with academic supervisor, post docs and other undergraduates
   * Tested efficacy of device and created a report on it 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* *2019-2025*: **Head Coach at Urban Climb** (rock climbing)
+  * Worked in conjunction with other coaches and staff teams in a *high risk* environment  
+  * Ensured occupational health and safety guidelines were adhered to 
+  * Developed communication skills from instructing groups of 5-25 children,adolescents and adults  
+
+* *2025-present*: **Personal Bespoke Car project** 
+  * CAD design for CNC manufacturing and static stress simulation with fusion360
+  * Project planning, simulation and documentation in python and excel
+  * 3D printing with  high strength engineering materials 
+  * Fabrication with Mig and Stick welding  
+
   
 Skills
 ======
-* PCB, CNC and 3DP FDM CAD 
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Quick learner 
+* Strong clear communication
+* diligent self motivated worker
+* Sub-skill 2.2
   
 Talks
 ======
@@ -52,11 +57,11 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Offered a role to tutor an QUT's honours power systems unit EGH441  
 
 Miscellaneous Achievements
 ======
-
+* Won multiple state level rock climbing competitions and competed in nationals
+* Graduated highschool with an ATAR of 96.90
+* Accquired unrestricted motorbike license and manual car license  
   
