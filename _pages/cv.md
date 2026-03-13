@@ -8,7 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
-~Note: recruiters can find a formal copy of my resume with my job application~
+
+<p style="font-size: 0.8em; color: #666;">
+Note: recruiters can find a formal copy of my resume with my job application
+</p>
+
+
 Education
 ======
 * Bachelor of Electrical Engineering (honours) at QUT
