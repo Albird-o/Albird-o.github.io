@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<small>Note: recruiters can find a formal copy of my resume with my job application</small>
+<small>Note: Recruiters can find a formal copy of this resume with my job application</small>
 
 
 Education
