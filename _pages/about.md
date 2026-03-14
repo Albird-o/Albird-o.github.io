@@ -18,12 +18,12 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
-<div style="flex:1; min-width:300px;">
+<div style="flex:1; min-width:330px;">
 <img src="/images/AlbertClimbingNationals2022.jpg" style="width:100%; margin-bottom:10px;">
 <img src="/images/UndergroundAlbertClimbing1.jpg" style="width:100%;">
 </div>
 
-<div style="flex:2; min-width:300px;">
+<div style="flex:2; min-width:330px;">
 
 
 During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals.
@@ -65,12 +65,12 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
-<div style="flex:1; min-width:260px;">
+<div style="flex:1; min-width:330px;">
 <img src="/images/TeamworkGlenAnshdeep.png" style="width:100%; margin-bottom:10px;">
 <img src="/images/EngineRemoval.jpg" style="width:100%;">
 </div>
 
-<div style="flex:2; min-width:
+<div style="flex:2; min-width:330px;">
   
 At QUT I began my electrical engineering degree and worked as hard as I could to get the best grades possible, socialised, expanded my clique and learnt more than I could cope with. Below is an Iconic photo of me and two friends perfecting our RF and telecommunications assignment right before the deadline.
 
@@ -86,9 +86,15 @@ In my University years I also became passionate about the automotive side of eng
 
 **Electrical Engineering at QUT and ElexonMining**
 
+<div style="display:flex; gap:25px; flex-wrap:wrap;">
 
+<div style="flex:1; min-width:330px;">
 <img src="/images/ElexonTest.jpg" style="width:100%; margin-bottom:10px;">
 </div>
+
+<div style="flex:2; min-width:330px;">
+  
+
 
 
 Working toward my honours degree while gaining industry experience at **Elexon Mining**.
