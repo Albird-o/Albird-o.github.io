@@ -42,9 +42,7 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 
 <div style="flex:1; min-width:260px;">
 <img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px;">
-
-<img src="/images/AlbertHarveyCoach.jpg" 
-     style="width:100%; height:400px; object-fit:cover; object-position:center 20%;">
+<img src="/images/AlbertHarveyCoach.jpg" style="width:100%; margin-bottom:10px;">
 </div>
 
 <div style="flex:2; min-width:260px;">
@@ -89,13 +87,9 @@ In my University years I also became passionate about the automotive side of eng
 **Electrical Engineering at QUT and ElexonMining**
 
 
-<div style="display:flex; gap:25px; flex-wrap:wrap;">
-
-<div style="flex:1; min-width:260px;">
 <img src="/images/ElexonTest.jpg" style="width:100%; margin-bottom:10px;">
 </div>
 
-<div style="flex:1; min-width:
 
 Working toward my honours degree while gaining industry experience at **Elexon Mining**.
 
