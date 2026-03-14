@@ -14,17 +14,18 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 ### 2018–2020
 
-<img src="/images/climbing.png" width="500">
+<img src="/images/AlbertClimbingNationals2022.jpg" width="500">
 
 **Competitive Rock Climbing**
 
 Competed and coached regularly while maintaining strong academic performance.
+<img src="/images/UndergroundAlbertClimbing1.jpg" width="500">
 
 ---
 
 ### 2023–Present
 
-<img src="/images/elexon.png" width="500">
+<img src="/images/ElexonTest.jpg" width="500">
 
 **Electrical Engineering – QUT**
 
