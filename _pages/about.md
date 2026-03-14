@@ -32,6 +32,7 @@ During my teenage years I competed in rock climbing, winning state competitions 
 <br>
 <br>
 <br>
+<br>
 I also climbed recreationally which included both climbing indoors and outdoors when I wasnt training. The photo on the left here is from back in 2019 at White rock conservation area.
 
 </div>
@@ -101,7 +102,9 @@ In my University years I also became passionate about the automotive side of eng
 
 
 
-Working toward my honours degree while gaining industry experience at **Elexon Mining**.
+Working toward my honours degree while gaining industry experience at <strong>Elexon <strong>Mining.
+
+I managed to secure an industry based thesis with elexon so I've not only been doing real world electrical engineering work but I have also been researching a practical topic instead of doing my honours thesis purely out of university academia. 
 
 
 </div>
