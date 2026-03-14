@@ -43,6 +43,13 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 
 **University, Cars, Motorbikes, and Teamwork**
 
+At QUT I began my electrical engineering degree and worked as hard as I could to get the best grades possible, socialised, expanded my clique and learnt more than I could cope with. Below is an Iconic photo of me and two friends perfecting our RF and telecommunications assignment right before the deadline.
+
+<img src="/images/TeamworkGlenAnshdeep.jpg" width="500">
+
+In my University years I also became passionate about the automotive side of engineering. I tried to join the motorsport club but it wasn't for me, I instead found pleasure working on my own vehicles and starting my own car project. 
+
+<img src="/images/EngineRemoval.jpg" width="500">
 
 
 ## 2025-present 
