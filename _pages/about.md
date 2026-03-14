@@ -41,7 +41,7 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 
 <div style="flex:1; min-width:260px;">
 <img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px;">
-<img src="/images/AlbertHarveyCoach.jpg" style="width:100%;height:400px; overflow:hidden;"">
+<img src="/images/AlbertHarveyCoach.jpg" style="width:100%; height:400px; object-fit:cover; object-position:center 20%;">
 </div>
 
 <div style="flex:2; min-width:260px;">
