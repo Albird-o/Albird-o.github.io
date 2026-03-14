@@ -75,14 +75,12 @@ Hello, I am Albert, an undergraduate Electrical engineering student. I’d descr
 ## 2025–present
 
 **Electrical Engineering at QUT and ElexonMining**
-<div style="display:flex; flex-wrap:wrap; gap:25px; align-items:flex-start; margin-bottom:40px;">
 
-  <div style="flex:1; min-width:400px;">
-    <img src="/images/ElexonTest.jpg" style="width:100%; max-width:100%; display:block; object-fit:cover; margin-bottom:10px;">
+<div class="flex-row">
+  <div class="flex-image">
+    <img src="/images/ElexonTest.jpg">
   </div>
-
-  <div style="flex:2; min-width:400px;">
+  <div class="flex-text">
     Working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>.
   </div>
-
 </div>
