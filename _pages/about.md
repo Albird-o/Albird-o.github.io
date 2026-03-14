@@ -78,11 +78,11 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 **Electrical Engineering at QUT and ElexonMining**
 
-
-<img src="/images/ElexonTest.jpg" style="width:100%; margin-bottom:10px;">
-
-Working toward my honours degree while gaining industry experience at **Elexon Mining**.
-
-</div>
-
+<div style="display:flex; gap:25px; flex-wrap:wrap; align-items:flex-start;">
+  <div style="flex:1; min-width:400px;">
+    <img src="/images/ElexonTest.jpg" style="width:100%; object-fit:cover; margin-bottom:10px;">
+  </div>
+  <div style="flex:2; min-width:400px;">
+    Working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>.
+  </div>
 </div>
