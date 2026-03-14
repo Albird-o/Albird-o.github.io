@@ -16,7 +16,6 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 ### Competitive Rock Climbing
 
-</div>
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
@@ -32,6 +31,7 @@ During my teenage years I competed in rock climbing competitively, winning state
 
 I also climbed recreationally outdoors and spent a huge amount of time training.
 
+</div>
 
 </div>
 
@@ -39,7 +39,6 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 
 **Coaching rock climbing and graduation**
 
-</div>
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
@@ -56,6 +55,7 @@ In grade 12 I semi-retired from competing due to injuries and burnout, I still m
 Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. To the side you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
 
 
+</div>
 
 </div>
 
@@ -64,7 +64,6 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 
 **University, Cars, Motorbikes, and Teamwork**
 
-</div>
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
@@ -80,6 +79,7 @@ At QUT I began my electrical engineering degree and worked as hard as I could to
 In my University years I also became passionate about the automotive side of engineering. I tried to join the motorsport club but it wasn't for me, I instead found pleasure working on my own vehicles and starting my own car project. 
 
 
+</div>
 
 </div>
 
