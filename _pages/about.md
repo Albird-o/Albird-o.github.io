@@ -14,6 +14,7 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 ## 2018–2023
 **Competitive Rock Climbing**
+
 During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals. Below is an image of me in boulder nationals in 2023.
 
 <img src="/images/AlbertClimbingNationals2022.jpg" width="500">
@@ -25,6 +26,7 @@ I also climbed recreationally, here is a photo of some outdoor climbing back in 
 ---
 ### 2019–2025
 **Coaching rock climbing and graduation**
+
 In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
 
 <img src="/images/GraduationMathsMethodsAward.jpg" width="500">
