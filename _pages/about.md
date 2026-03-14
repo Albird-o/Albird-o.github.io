@@ -28,6 +28,11 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 During my teenage years I competed in rock climbing, winning state competitions and competing in nationals. You can see me in 2022 nationals on the left.
 
+
+
+
+
+
 I also climbed recreationally which included both climbing indoors and outdoors when I wasnt training. The photo on the left here is from back in 2019 at White rock conservation area.
 
 </div>
