@@ -18,20 +18,20 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
-
-<div style="flex:1; min-width:400px;">
-<img src="/images/AlbertClimbingNationals2022.jpg" style="width:100%; margin-bottom:10px;">
-<img src="/images/UndergroundAlbertClimbing1.jpg" style="width:100%;">
-</div>
-
-<div style="flex:2; min-width:400px;">
+  
+  <div style="flex:1; min-width:400px;">
+    <img src="/images/AlbertClimbingNationals2022.jpg" style="width:100%; margin-bottom:10px;">
+    <img src="/images/UndergroundAlbertClimbing1.jpg" style="width:100%;">
+  </div>
+  
+  <div style="flex:2; min-width:400px;">
 
 
 During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals.
 
 I also climbed recreationally outdoors and spent a huge amount of time training.
-
-</div>
+  
+  </div>
 
 </div>
 
@@ -40,22 +40,17 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 **Coaching rock climbing and graduation**
 
 
-<div style="display:flex; gap:25px; flex-wrap:wrap;">
+<div style="display:flex; gap:25px; flex-wrap:wrap; align-items:flex-start;">
 
-<div style="flex:1; min-width:400px;">
-<img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px;">
-<img src="/images/AlbertHarveyCoach.jpg" style="width:100%; margin-bottom:10px;">
-</div>
+  <div style="flex:1; min-width:400px;">
+    <img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px; object-fit:cover;">
+    <img src="/images/AlbertHarveyCoach.jpg" style="width:100%; object-fit:cover; margin-bottom:10px;">
+  </div>
 
-<div style="flex:2; min-width:400px;">
-
-
-In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
-
-Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. To the side you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
-
-
-</div>
+  <div style="flex:2; min-width:400px;">
+    In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
+    Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. To the side you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
+  </div>
 
 </div>
 
@@ -67,19 +62,19 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
-<div style="flex:1; min-width:400px;">
-<img src="/images/TeamworkGlenAnshdeep.png" style="width:100%; margin-bottom:10px;">
-<img src="/images/EngineRemoval.jpg" style="width:100%;">
-</div>
+  <div style="flex:1; min-width:400px;">
+    <img src="/images/TeamworkGlenAnshdeep.png" style="width:100%; margin-bottom:10px;">
+    <img src="/images/EngineRemoval.jpg" style="width:100%;">
+  </div>
 
-<div style="flex:2; min-width:400px;:
+  <div style="flex:2; min-width:400px;:
   
 At QUT I began my electrical engineering degree and worked as hard as I could to get the best grades possible, socialised, expanded my clique and learnt more than I could cope with. Below is an Iconic photo of me and two friends perfecting our RF and telecommunications assignment right before the deadline.
 
 In my University years I also became passionate about the automotive side of engineering. I tried to join the motorsport club but it wasn't for me, I instead found pleasure working on my own vehicles and starting my own car project. 
 
 
-</div>
+  </div>
 
 </div>
 
@@ -90,11 +85,8 @@ In my University years I also became passionate about the automotive side of eng
 
 
 <img src="/images/ElexonTest.jpg" style="width:100%; margin-bottom:10px;">
-</div>
-
 
 Working toward my honours degree while gaining industry experience at **Elexon Mining**.
-
 
 </div>
 
