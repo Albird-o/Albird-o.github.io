@@ -33,6 +33,7 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 </div>
 
 </div>
+
 ## 2019–2025
 
 **Coaching rock climbing and graduation**
@@ -41,16 +42,22 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 
 <div style="flex:1; min-width:260px;">
 <img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px;">
-<img src="/images/AlbertHarveyCoach.jpg" style="width:100%; height:400px; object-fit:cover; object-position:center 20%;">
+
+<img src="/images/AlbertHarveyCoach.jpg" 
+     style="width:100%; height:400px; object-fit:cover; object-position:center 20%;">
 </div>
 
 <div style="flex:2; min-width:260px;">
-  
-In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
 
+
+In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
 
 Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
 
+
+</div>
+
+</div>
 
 ## 2022–2025 
 
