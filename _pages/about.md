@@ -25,7 +25,12 @@ I also climbed recreationally, here is a photo of some outdoor climbing back in 
 ---
 ### 2019–2025
 **Coaching rock climbing and graduation**
-In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
+In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
+
+<img src="/images/GraduationMathsMethodsAward.jpg" width="500">
+
+Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
+
 <img src="/images/AlbertHarveyCoach.jpg" width="500">
 
 ---
