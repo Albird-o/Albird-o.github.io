@@ -14,6 +14,8 @@ systems. I am also passionate about and experienced in automotive engineering.
 ---
 ## 2018–2023
 
+### Competitive Rock Climbing
+
 <div style="display:flex; gap:25px; flex-wrap:wrap;">
 
 <div style="flex:1; min-width:260px;">
@@ -23,7 +25,6 @@ systems. I am also passionate about and experienced in automotive engineering.
 
 <div style="flex:2; min-width:260px;">
 
-### Competitive Rock Climbing
 
 During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals.
 
@@ -36,15 +37,19 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 
 **Coaching rock climbing and graduation**
 
+<div style="display:flex; gap:25px; flex-wrap:wrap;">
+
+<div style="flex:1; min-width:260px;">
+<img src="/images/GraduationMathsMethodsAward.jpg" style="width:100%; margin-bottom:10px;">
+<img src="/images/AlbertHarveyCoach.jpg" style="width:100%;height:400px; overflow:hidden;"">
+</div>
+
+<div style="flex:2; min-width:260px;">
+  
 In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
 
-<img src="/images/GraduationMathsMethodsAward.jpg" width="500">
 
 Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
-
-<div style="width:500px; height:400px; overflow:hidden;">
-  <img src="/images/AlbertHarveyCoach.jpg" style="width:100%; transform: translateY(-20%);">
-</div>
 
 
 ## 2022–2025 
