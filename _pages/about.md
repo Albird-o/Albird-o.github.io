@@ -54,7 +54,9 @@ I also climbed recreationally which included both climbing indoors and outdoors 
 
 
 In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
-
+<br>
+<br>
+<br>
 Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
 
 
@@ -78,7 +80,11 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 <div style="flex:2; min-width:330px;">
   
 At QUT I began my electrical engineering degree and worked as hard as I could to get the best grades possible, socialised, expanded my clique and learnt more than I could cope with. Below is an Iconic photo of me and two friends perfecting our RF and telecommunications assignment right before the deadline.
-
+<br>
+<br>
+<br>
+<br>
+<br>
 In my University years I also became passionate about the automotive side of engineering. I tried to join the motorsport club but it wasn't for me, I instead found pleasure working on my own vehicles and starting my own car project. 
 
 
