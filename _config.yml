@@ -8,7 +8,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Albert Harvey - Engineering Portfolio"
+title                    : "Albert Harvey - Home"
 title_separator          : "-"
 name                     : &name "Albert Harvey"
 description              : &description "Albert Harvey's engineering portfolio"
