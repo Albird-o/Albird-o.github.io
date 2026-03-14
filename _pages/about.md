@@ -14,17 +14,24 @@ systems. I am also passionate about and experienced in automotive engineering.
 ---
 ## 2018–2023
 
-**Competitive Rock Climbing**
+<div style="display:flex; gap:25px; flex-wrap:wrap;">
 
-During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals. Below is an image of me in boulder nationals in 2023.
+<div style="flex:1; min-width:260px;">
+<img src="/images/AlbertClimbingNationals2022.jpg" style="width:100%; margin-bottom:10px;">
+<img src="/images/UndergroundAlbertClimbing1.jpg" style="width:100%;">
+</div>
 
-<img src="/images/AlbertClimbingNationals2022.jpg" width="500">
+<div style="flex:2; min-width:260px;">
 
-I also climbed recreationally, here is a photo of some outdoor climbing back in 2019.
+### Competitive Rock Climbing
 
-<img src="/images/UndergroundAlbertClimbing1.jpg" width="500">
+During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals.
 
+I also climbed recreationally outdoors and spent a huge amount of time training.
 
+</div>
+
+</div>
 ## 2019–2025
 
 **Coaching rock climbing and graduation**
@@ -35,8 +42,9 @@ In grade 12 I semi-retired from competing due to injuries and burnout, I still m
 
 Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
 
-<img src="/images/AlbertHarveyCoach.jpg" width="500">
-
+<div style="width:500px; height:400px; overflow:hidden;">
+  <img src="/images/AlbertHarveyCoach.jpg" style="width:100%; transform: translateY(-20%);">
+</div>
 
 
 ## 2022–2025 
