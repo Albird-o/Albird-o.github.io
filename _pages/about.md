@@ -15,6 +15,7 @@ systems. I am also passionate about and experienced in automotive engineering.
 ## 2018–2023
 **Competitive Rock Climbing**
 During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals. Below is an image of me in boulder nationals in 2023.
+
 <img src="/images/AlbertClimbingNationals2022.jpg" width="500">
 
 I also climbed recreationally, here is a photo of some outdoor climbing back in 2019.
@@ -29,10 +30,14 @@ In grade 12 I semi-retired from competing due to injuries and burnout, I still m
 
 ---
 
-### 2023–Present
+### 2022–2025 
+**University, Cars, Motorbikes, and Teamwork**
+
+---
+
+### 2025-present 
+**Electrical Engineering at QUT and ElexonMining**
 
 <img src="/images/ElexonTest.jpg" width="500">
-
-**Electrical Engineering – QUT**
 
 Working toward my honours degree while gaining industry experience at **Elexon Mining**.
