@@ -26,9 +26,9 @@ systems. I am also passionate about and experienced in automotive engineering.
 <div style="flex:2; min-width:330px;">
 
 
-During my teenage years I competed in rock climbing competitively, winning state competitions and competing in nationals.
+During my teenage years I competed in rock climbing, winning state competitions and competing in nationals. You can see me in 2022 nationals on the left.
 
-I also climbed recreationally outdoors and spent a huge amount of time training.
+I also climbed recreationally which included both climbing indoors and outdoors when I wasnt training. The photo on the left here is from back in 2019 at White rock conservation area.
 
 </div>
 
@@ -48,9 +48,9 @@ I also climbed recreationally outdoors and spent a huge amount of time training.
 <div style="flex:2; min-width:330px;">
 
 
-In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, below is me with this award at graduation. 
+In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
 
-Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. Below is a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
+Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
 
 
 </div>
