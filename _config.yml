@@ -20,7 +20,7 @@ repository               : "albird-o/albird-o.github.io"
 author:
   avatar           : "/images/profile.png"
   name             : "Albert Harvey"
-  pronouns         : "he/him"  
+  #pronouns         : "he/him"  
   bio              : "Electrical Engineering Honours Student at QUT. Passionate about mining electronics, control systems, power systems, and automotive engineering."
   location         : "East Brisbane, QLD, Australia"
   employer         : "Elexon Mining"
