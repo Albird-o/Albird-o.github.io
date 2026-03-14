@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 Hello, I am Albert an undergraduate Electrical engineering student, I’d describe myself as eccentric, creative 
-and efficient. I am an engineer at heart and love making things and tinkering with stuff and I am currently 
-looking to start my career in the engineering industry with a focus on mining related electronics and power 
-systems. I am also passionate about and experienced in automotive engineering. 
+and efficient. I am an engineer at heart and love creating and tinkering, I am currently 
+looking to start my career in engineering with a focus on mining related electronics and power 
+systems. I am also passionate about automotive engineering, control systems, manufacturing and more. 
 # Personal Timeline
 ---
 ## 2018–2023
@@ -53,11 +53,11 @@ I also climbed recreationally which included both climbing indoors and outdoors 
 <div style="flex:2; min-width:330px;">
 
 
-In grade 12 I semi-retired from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling competing, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
+In grade 12 I took a step back from competing due to injuries and burnout, I still managed to pass on my love for the sport to the next generation however through coaching. Despite juggling training, coaching and grade 12 I still managed to get the highest math methods mark in the grade and graduated with an ATAR of 96.9, to the left is me with this award at graduation. 
 <br>
 <br>
 <br>
-Back to coaching though, I am so grateful for this opportunity, it helped me not only develop my own communication skills but also the confidence and fitness of hundreds of adolesecents I got to work with. you can see a spontaneous photo taken of me outside the climbing gym after a coaching shift in 2022.
+I’m incredibly grateful for the opportunity to coach. It helped me develop my communication skills while also building the confidence and fitness of the hundreds of adolescents I worked with. To the left is a spontaneous photo taken outside the climbing gym after a coaching shift in 2022.
 
 
 </div>
@@ -79,8 +79,7 @@ Back to coaching though, I am so grateful for this opportunity, it helped me not
 
 <div style="flex:2; min-width:330px;">
   
-At QUT I began my electrical engineering degree and worked as hard as I could to get the best grades possible, socialised, expanded my clique and learnt more than I could cope with. Below is an Iconic photo of me and two friends perfecting our RF and telecommunications assignment right before the deadline.
-<br>
+At QUT I began my electrical engineering degree and worked hard to achieve the best grades possible while also socialising, expanding my circle, and absorbing more knowledge than I could reasonably keep up with. To the left is an iconic photo of two friends and me finishing off our RF and telecommunications assignment right before the deadline.
 <br>
 <br>
 <br>
@@ -107,11 +106,7 @@ In my University years I also became passionate about the automotive side of eng
   
 
 
-
-Working toward my honours degree while gaining industry experience at <strong>Elexon <strong>Mining.
-
-I managed to secure an industry based thesis with elexon so I've not only been doing real world electrical engineering work but I have also been researching a practical topic instead of doing my honours thesis purely out of university academia. 
-
+I am currently working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>. I was fortunate to secure an industry-based thesis with Elexon, which means I have been able to work on real-world electrical engineering problems while researching a practical topic rather than completing a purely academic honours project.
 
 </div>
 
