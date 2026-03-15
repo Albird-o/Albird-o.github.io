@@ -15,6 +15,7 @@ redirect_from:
 Education
 ======
 * Bachelor of Electrical Engineering (honours) at QUT
+  * **GPA: 6.5** 
   * Minoring in Engineering mathematics
   * Further unspecified studies including coding and renewable power  
 * recieved QUT Executive Deans’ Commendation for Academic Excellence 5 semesters in a row from 2023 to 2025
