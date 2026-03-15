@@ -1,25 +1,26 @@
-.flex-row {
+.project {
   display: flex;
-  flex-wrap: wrap;
-  gap: 25px;
   align-items: flex-start;
+  gap: 25px;
   margin-bottom: 40px;
 }
 
-.flex-row .flex-image {
-  flex: 1;
-  min-width: 400px;
-}
-
-.flex-row .flex-text {
-  flex: 2;
-  min-width: 400px;
-}
-
-.flex-row img {
-  width: 100%;
-  max-width: 100%;
+.project img {
+  width: 320px;
+  border-radius: 6px;
   object-fit: cover;
-  display: block;
-  margin-bottom: 10px;
+}
+
+.project-text {
+  flex: 1;
+}
+
+@media (max-width: 800px) {
+  .project {
+    flex-direction: column;
+  }
+
+  .project img {
+    width: 100%;
+  }
 }
