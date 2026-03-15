@@ -83,7 +83,6 @@ At QUT I began my electrical engineering degree and worked hard to achieve the b
 <br>
 <br>
 <br>
-<br>
 In my University years I also became passionate about the automotive side of engineering. I tried to join the motorsport club but it wasn't for me, I instead found pleasure working on my own vehicles and starting my own car project. 
 
 
@@ -106,7 +105,7 @@ In my University years I also became passionate about the automotive side of eng
   
 
 
-I am currently working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>. I was fortunate to secure an industry-based thesis with Elexon, which means I have been able to work on real-world electrical engineering problems while researching a practical topic rather than completing a purely academic honours project.
+I am currently working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>. I was fortunate to secure an industry-based thesis with Elexon, which means I have been able to work on real-world electrical engineering problems while researching a practical topic rather than completing a purely academic honours project. With some details redacted for confidentiality, the image to the left shows a test setup I planned and established at Elexon using a range of electronic test equipment.
 
 </div>
 
