@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hello, I am Albert an undergraduate Electrical engineering student, I’d describe myself as eccentric, creative 
-and efficient. I am an engineer at heart and love creating and tinkering, I am currently 
+and efficient. I love creating, tinkering and solving problems with novel solutions. I am currently 
 looking to start my career in engineering with a focus on mining related electronics and power 
 systems. I am also passionate about automotive engineering, control systems, manufacturing and more. 
 # Personal Timeline
