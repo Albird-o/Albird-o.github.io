@@ -91,7 +91,7 @@ In my University years I also became passionate about the automotive side of eng
 </div>
 
 
-## 2025-present 
+## 2025-2026 
 
 **Electrical Engineering at QUT and ElexonMining**
 
@@ -105,7 +105,7 @@ In my University years I also became passionate about the automotive side of eng
   
 
 
-I am currently working toward my honours degree while gaining industry experience at <strong>Elexon Mining</strong>. I was fortunate to secure an industry-based thesis with Elexon, which means I have been able to work on real-world electrical engineering problems while researching a practical topic rather than completing a purely academic honours project. With some details redacted for confidentiality, the image to the left shows a test setup I planned and established at Elexon using a range of electronic test equipment.
+I completed my Engineering honours while gaining industry experience at <strong>Elexon Mining</strong>. I was fortunate to secure an industry-based thesis with Elexon, which meant I had the opportunity to work on real-world electrical engineering problems while researching a practical topic rather than completing a purely academic honours project. With some details redacted for confidentiality, the image to the left shows a test setup I planned and established at Elexon using a range of electronic test equipment.
 
 </div>
 
